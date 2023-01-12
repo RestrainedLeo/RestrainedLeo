@@ -11,9 +11,6 @@ I'm 20 years old and I've been studying information security since I was 18. I l
 * 🧠  I'm learning some languages, like Javascript, Python, SQL and C.
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 
-<a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
-
 ### Skills
 
 <p align="left">
