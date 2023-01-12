@@ -4,9 +4,7 @@ Hi 👋 My name is Leonardo
 CyberSecurity Student
 -----------------------------
 
-I'm a 20 years 
-
-I am also a student at [42 | Rio](https://42.rio/), a Software Engineering school that have [47 campus in 26 countries](https://www.42network.org/42-schools/).
+I'm 20 years old and I've been studying information security since I was 18. I love learning about hacking, new technologies and learning programming languages aimed at cybersecurity. I currently study at PUC Minas but I take other extracurricular courses such as CCNA and CyberOps.
 
 * 🌍  I'm living in Sorocaba - SP, Brazil
 * ✉️  You can contact me at leoalbuquerquegomes1@gmail.com
