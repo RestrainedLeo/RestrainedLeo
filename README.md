@@ -1,13 +1,13 @@
 Hi 👋 My name is Leonardo
 ==========================
 
-CyberSecurity Student
+E-commerce Development and Cybersecurity Specialist
 -----------------------------
 
 I'm 24 years old and I've been studying information security since I was 19. I love learning about hacking, new technologies and learning programming languages aimed at cybersecurity. I currently studying tools SOC and invasion techniques.
 
 * 🌍  I'm living in Sorocaba - SP, Brazil
-* ✉️  You can contact me at leoalbuquerquegomes1@gmail.com
+* ✉️  You can contact me at contato.techcommerce@gmail.com
 * 🧠  I'm learning some languages, like Javascript, Python, SQL and C.
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 
