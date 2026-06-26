@@ -4,7 +4,7 @@ Hi 👋 My name is Leonardo
 CyberSecurity Student
 -----------------------------
 
-I'm 22 years old and I've been studying information security since I was 19. I love learning about hacking, new technologies and learning programming languages aimed at cybersecurity. I currently studying tools SOC and invasion techniques.
+I'm 24 years old and I've been studying information security since I was 19. I love learning about hacking, new technologies and learning programming languages aimed at cybersecurity. I currently studying tools SOC and invasion techniques.
 
 * 🌍  I'm living in Sorocaba - SP, Brazil
 * ✉️  You can contact me at leoalbuquerquegomes1@gmail.com
