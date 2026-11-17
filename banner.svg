@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 330" width="960" height="330" role="img" aria-label="Leonardo: full-stack dev and cybersecurity">
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#1F1814" stroke-opacity="0.05"/>
+    </pattern>
+  </defs>
+  <path d="M12 12 H936 V300 L926 310 L916 300 L906 310 L896 300 L886 310 L876 300 L866 310 L856 300 L846 310 L836 300 L826 310 L816 300 L806 310 L796 300 L786 310 L776 300 L766 310 L756 300 L746 310 L736 300 L726 310 L716 300 L706 310 L696 300 L686 310 L676 300 L666 310 L656 300 L646 310 L636 300 L626 310 L616 300 L606 310 L596 300 L586 310 L576 300 L566 310 L556 300 L546 310 L536 300 L526 310 L516 300 L506 310 L496 300 L486 310 L476 300 L466 310 L456 300 L446 310 L436 300 L426 310 L416 300 L406 310 L396 300 L386 310 L376 300 L366 310 L356 300 L346 310 L336 300 L326 310 L316 300 L306 310 L296 300 L286 310 L276 300 L266 310 L256 300 L246 310 L236 300 L226 310 L216 300 L206 310 L196 300 L186 310 L176 300 L166 310 L156 300 L146 310 L136 300 L126 310 L116 300 L106 310 L96 300 L86 310 L76 300 L66 310 L56 300 L46 310 L36 300 L26 310 L16 300 L12 310 L12 300 Z" transform="translate(8 8)" fill="#EF6939"/>
+  <path d="M12 12 H936 V300 L926 310 L916 300 L906 310 L896 300 L886 310 L876 300 L866 310 L856 300 L846 310 L836 300 L826 310 L816 300 L806 310 L796 300 L786 310 L776 300 L766 310 L756 300 L746 310 L736 300 L726 310 L716 300 L706 310 L696 300 L686 310 L676 300 L666 310 L656 300 L646 310 L636 300 L626 310 L616 300 L606 310 L596 300 L586 310 L576 300 L566 310 L556 300 L546 310 L536 300 L526 310 L516 300 L506 310 L496 300 L486 310 L476 300 L466 310 L456 300 L446 310 L436 300 L426 310 L416 300 L406 310 L396 300 L386 310 L376 300 L366 310 L356 300 L346 310 L336 300 L326 310 L316 300 L306 310 L296 300 L286 310 L276 300 L266 310 L256 300 L246 310 L236 300 L226 310 L216 300 L206 310 L196 300 L186 310 L176 300 L166 310 L156 300 L146 310 L136 300 L126 310 L116 300 L106 310 L96 300 L86 310 L76 300 L66 310 L56 300 L46 310 L36 300 L26 310 L16 300 L12 310 L12 300 Z" fill="#FBFAF8"/>
+  <path d="M12 12 H936 V300 L926 310 L916 300 L906 310 L896 300 L886 310 L876 300 L866 310 L856 300 L846 310 L836 300 L826 310 L816 300 L806 310 L796 300 L786 310 L776 300 L766 310 L756 300 L746 310 L736 300 L726 310 L716 300 L706 310 L696 300 L686 310 L676 300 L666 310 L656 300 L646 310 L636 300 L626 310 L616 300 L606 310 L596 300 L586 310 L576 300 L566 310 L556 300 L546 310 L536 300 L526 310 L516 300 L506 310 L496 300 L486 310 L476 300 L466 310 L456 300 L446 310 L436 300 L426 310 L416 300 L406 310 L396 300 L386 310 L376 300 L366 310 L356 300 L346 310 L336 300 L326 310 L316 300 L306 310 L296 300 L286 310 L276 300 L266 310 L256 300 L246 310 L236 300 L226 310 L216 300 L206 310 L196 300 L186 310 L176 300 L166 310 L156 300 L146 310 L136 300 L126 310 L116 300 L106 310 L96 300 L86 310 L76 300 L66 310 L56 300 L46 310 L36 300 L26 310 L16 300 L12 310 L12 300 Z" fill="url(#grid)" stroke="#1F1814" stroke-width="3" stroke-linejoin="round"/>
+
+  <text x="44" y="52" font-family="'Space Mono', ui-monospace, Consolas, 'Courier New', monospace" font-size="13" letter-spacing="2" fill="#7A6E66">ORDER Nº 024 · TABLE: SOROCABA/SP · BRAZIL</text>
+  <g transform="translate(806 36)">
+    <rect width="98" height="24" rx="3" fill="#1F1814"/>
+    <circle cx="16" cy="12" r="4" fill="#EF6939"><animate attributeName="opacity" values="1;0.2;1" dur="1.6s" repeatCount="indefinite"/></circle>
+    <text x="28" y="17" font-family="'Space Mono', ui-monospace, Consolas, 'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="1.5" fill="#FBFAF8">ONLINE</text>
+  </g>
+  <line x1="44" y1="72" x2="904" y2="72" stroke="#1F1814" stroke-width="2" stroke-dasharray="6 6"/>
+
+  <text x="40" y="132" font-family="'Bricolage Grotesque', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="54" font-weight="800" letter-spacing="-1.5" fill="#1F1814">Hi, I'm Leonardo<tspan fill="#EF6939">.</tspan></text>
+  <text x="44" y="164" font-family="'Space Mono', ui-monospace, Consolas, 'Courier New', monospace" font-size="16" fill="#1F1814">full-stack dev <tspan fill="#EF6939" font-weight="700">×</tspan> cybersecurity <tspan fill="#E33670">_<animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></tspan></text>
+
+  <text x="44" y="200" font-family="'Space Mono', ui-monospace, Consolas, 'Courier New', monospace" font-size="15" fill="#1F1814" xml:space="preserve">1x Websites &amp; e-commerce ..... <tspan fill="#EF6939" font-weight="700">served</tspan></text>
+  <text x="44" y="224" font-family="'Space Mono', ui-monospace, Consolas, 'Courier New', monospace" font-size="15" fill="#1F1814" xml:space="preserve">1x SOC &amp; threat detection .... <tspan fill="#E33670" font-weight="700">cooking</tspan></text>
+  <text x="44" y="248" font-family="'Space Mono', ui-monospace, Consolas, 'Courier New', monospace" font-size="15" fill="#1F1814" xml:space="preserve">1x Pentest &amp; blue team ....... <tspan fill="#E33670" font-weight="700">cooking</tspan></text>
+  <text x="44" y="272" font-family="'Space Mono', ui-monospace, Consolas, 'Courier New', monospace" font-size="15" fill="#1F1814" xml:space="preserve">1x Coffee .................... <tspan fill="#7A6E66" font-weight="700">extra strong</tspan></text>
+
+  <g transform="translate(686 196) rotate(-9)">
+    <rect x="0" y="0" width="200" height="62" rx="6" fill="none" stroke="#E33670" stroke-width="3"/>
+    <rect x="6" y="6" width="188" height="50" rx="3" fill="none" stroke="#E33670" stroke-width="1.5"/>
+    <text x="100" y="30" text-anchor="middle" font-family="'Bricolage Grotesque', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="19" font-weight="800" letter-spacing="2" fill="#E33670">SECURE</text>
+    <text x="100" y="47" text-anchor="middle" font-family="'Space Mono', ui-monospace, Consolas, 'Courier New', monospace" font-size="11" font-weight="700" letter-spacing="2" fill="#E33670">BY DEFAULT</text>
+  </g>
+</svg>
